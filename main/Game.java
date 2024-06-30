@@ -58,7 +58,7 @@ public class Game extends JFrame implements Runnable  {
         gamePanel.requestFocus();
         startgameloop();
 
-        //nina ist dooof 30 cm Riesen Dildo aa
+
 
     }
 
